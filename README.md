@@ -86,23 +86,6 @@ The application provides a front-end hosted in **Amazon S3** and exposes REST AP
 - Securing APIs with **IAM roles and resource policies**.
 - Monitoring and troubleshooting with **CloudWatch**.
 
----
-
-## 📁 Repository Structure
-```
-.
-├── aws.png                # Solution architecture diagram
-├── lambda/                # Lambda function code for CRUD operations
-│   ├── create_item.py
-│   ├── get_item.py
-│   ├── update_item.py
-│   └── delete_item.py
-├── frontend/              # Static website files hosted on S3
-│   ├── index.html
-│   ├── app.js
-│   └── style.css
-└── README.md              # Project documentation
-```
 
 ---
 
