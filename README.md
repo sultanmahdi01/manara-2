@@ -6,6 +6,9 @@ The architecture ensures **scalability, high availability, and cost efficiency**
 
 The application provides a front-end hosted in **Amazon S3** and exposes REST API endpoints through **Amazon API Gateway**, backed by **AWS Lambda** for request handling and **Amazon DynamoDB** for persistent data storage.
 
+Live link: http://manara-app-1234567890.s3-website-us-east-1.amazonaws.com
+
+
 ---
 
 ## 🏗️ Solution Architecture
