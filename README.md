@@ -95,6 +95,3 @@ The application provides a front-end hosted in **Amazon S3** and exposes REST AP
 - Optimize DynamoDB with **secondary indexes** for advanced queries.
 - Use **S3 + Lambda** for storing attachments/files alongside records.
 
----
-
-✨ With this project, you’ll gain **hands-on experience** in building a **serverless full-stack application** using AWS services.
